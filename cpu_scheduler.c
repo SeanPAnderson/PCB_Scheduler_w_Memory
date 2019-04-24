@@ -460,12 +460,3 @@ void shutDownProcedures() {
     printf("Process terminated.\n");
     exit(0);
 }
-
-
-/* REMAINING WORK
-*   Check for fragmented memory
-*   Printout fragmented memory (however it says in instructions)
-*   Cleanup outputs
-*   Double-check Instructions for anything else
-*   Update algorithm and headers in each file
-*/
